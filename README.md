@@ -1,5 +1,4 @@
-# TEXT-TO-IMAGE-GEN
-# Text-To-Image-Generation
+
 # Text-to-Image Generation using Hugging Face & Stable Diffusion
 
 A **Text-to-Image Generation** project that transforms natural language prompts into high-quality AI-generated images using **Hugging Face Diffusers**, **Stable Diffusion**, and **PyTorch**. This project demonstrates practical applications of **Generative AI**, **Deep Learning**, and **Computer Vision**.
@@ -41,7 +40,6 @@ It is designed as a **learning-focused Generative AI project**, ideal for studen
 ```
 Text-To-Image-Generation/
 │
-├── app.py                  # Main application file
 ├── requirements.txt        # Dependencies
 ├── outputs/                # Generated images
 ├── README.md               # Project documentation
@@ -55,8 +53,8 @@ Text-To-Image-Generation/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-to-image-generation.git
-cd text-to-image-generation
+git clone https://github.com/Ujjval009/TEXT-TO-IMAGE-GEN.git
+cd text-to-image-gen
 ```
 
 ### 2️⃣ Create Virtual Environment (Optional)
@@ -74,33 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
 
-### Run the Image Generator
-
-```bash
-python app.py
-```
-
-### Example Prompt
-
-```
-A cyberpunk city with neon lights at night
-```
-
-The generated image will be saved in the **outputs/** folder.
-
----
-
-## 🖼 Sample Output
-
-Add generated image screenshots here:
-
-```
-outputs/sample.png
-```
-
----
 
 ## 🧩 Example Code Snippet
 
@@ -149,18 +121,6 @@ image.save("output.png")
 
 ## 👨‍💻 Author
 
-**Harry**
+**Ujjval Sharma**
 Engineering Student | Generative AI Learner
 
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
-
----
-
-If you want, I can now:
-✅ Customize this README based on your actual code
-✅ Add **badges, banners, and GitHub visuals**
-✅ Create a **LinkedIn post** to showcase this project
