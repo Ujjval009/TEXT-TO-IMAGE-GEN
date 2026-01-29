@@ -1,0 +1,23 @@
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+safetensors
+huggingface-hub
+numpy
+Pillow
+opencv-python
+matplotlib
+
+
+
+#UI / APP LIBRARIES
+gradio
+
+#PERFORMANCE & SPEED BOOST
+xformers
+bitsandbytes
+triton
+
